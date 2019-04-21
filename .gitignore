@@ -1,3 +1,7 @@
 pretrained-model/
 output/
 images/
+.ipynb_checkpoints/
+__pycache__/
+result_bw.png
+vienna2.jpg
